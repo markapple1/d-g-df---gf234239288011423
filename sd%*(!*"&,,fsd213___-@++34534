@@ -1,4 +1,4 @@
-local http = game:GetService("HttpService")
+ocal http = game:GetService("HttpService")
 
 
 
